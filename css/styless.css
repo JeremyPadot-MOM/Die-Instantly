@@ -13,5 +13,6 @@ body{
 h1{
   text-align: center;
   color: azure;
-  text-size-adjust: large;
+ font-weight: bold;
+ font-size:50px;
 }
